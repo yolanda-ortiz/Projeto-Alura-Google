@@ -1,3 +1,6 @@
+![image](https://github.com/yolanda-ortiz/Projeto-Alura-Google/assets/169544800/1a37baa9-c70d-4376-8162-940d71825029)
+
+
 # Projeto Alura + Google
 
 😀 Com o objetivo de facilitar o acesso à informação legal, desenvolvemos um chatbot inovador que utiliza inteligência artificial para auxiliar você na compreensão da legislação brasileira.
