@@ -3,7 +3,7 @@
 
 # Projeto Alura + Google
 
-😀 Com o objetivo de facilitar o acesso à informação legal, desenvolvemos um chatbot inovador que utiliza inteligência artificial para auxiliar você na compreensão da legislação brasileira.
+😀 Com o objetivo de facilitar o acesso à informação legal, desenvolvi um chatbot inovador que utiliza inteligência artificial para auxiliar você na compreensão da legislação brasileira.
 
 # Como ele funciona?
 
